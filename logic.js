@@ -26,7 +26,6 @@ function rollMe(randomNumber, image) {
 
 
 document.querySelector(".btn").addEventListener("click", function (){
-    console.log("I was clicked")
     let randomNumberOne = Math.floor(Math.random() * 6) + 1
     let randomNumberTwo = Math.floor(Math.random() * 6) + 1
     rollMe(randomNumberOne, ".img1");
