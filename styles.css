@@ -22,6 +22,18 @@ h1 {
   color: #4ECCA3;
 }
 
+.btn {
+  font-size: 3rem;
+  font-family: 'Lobster', cursive;
+  color: white;
+  background-color: #4ECCA3;
+  display: block;
+  margin: auto;
+  border-radius: 8px;
+  box-shadow: 4px 0 #232931;
+  padding: 1rem;
+}
+
 p {
   font-size: 2rem;
   color: #4ECCA3;
